@@ -6,3 +6,6 @@ requests
 joblib
 scikit-learn
 pyarrow
+torch
+torchvision
+torchaudio
